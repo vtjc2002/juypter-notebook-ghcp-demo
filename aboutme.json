@@ -1,0 +1,11 @@
+{
+    "name": "Johnson Tseng",
+    "title": "Digital & App Innovation - Sr. Cloud Solution Architect",
+    "company": "Microsoft",
+    "location": "Alpharetta, GA",
+    "email": "johnsontseng@microsoft.com",
+    "spoken_language": ["English", "Mandarin"],
+    "coding_language": ["C#","JavaScript", "TypeScript"],
+    "tools": ["Azure", "Azure Open AI", "Kubernetes", "Azure SQL", "CosmosDB", "Github", "AzureDevOps", "Github Copilot" ]
+}
+  
